@@ -5192,14 +5192,6 @@ if (reversed == null) { reversed = false; }
 		*/
 		_this.gotoAndPlay(2);
 		});
-		
-		
-		var _this = this;
-		/*
-		Stop a Movie Clip/Video
-		Stops the specified movie clip or video.
-		*/
-		_this.stop();
 		var _this = this;
 		/*
 		Stop a Movie Clip/Video
